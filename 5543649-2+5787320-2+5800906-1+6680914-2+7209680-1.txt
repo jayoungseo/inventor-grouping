@@ -1,0 +1,2 @@
+A developer of an image-forming apparatus includes a photoconductor, a housing comprising a waste toner container in which waste toner removed from the photoconductor is contained, and a recessed portion depressed downwardly in a center portion of an upper wall of the waste toner container, the center portion corresponding to a center portion of the photoconductor in a lengthwise direction to move toner away from the center portion.
+A backlight assembly includes a plurality of point light sources, a light guide plate (
